@@ -1,0 +1,11 @@
+numpy
+pandas
+keras
+tensorflow
+matplotlib
+mlxtend
+h5py
+nltk
+scikit-learn
+# wordcloud
+spacy
